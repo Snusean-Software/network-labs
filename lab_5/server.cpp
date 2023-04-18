@@ -5,7 +5,8 @@
 #include <sys/types.h>
 #include <unistd.h>
 
-const std::string ip = "172.23.12.132";
+//const std::string ip = "172.23.12.132";
+const std::string ip = "127.0.0.1";
 const std::string port = "31337";
 enum class Encrypt
 {
